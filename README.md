@@ -2,7 +2,7 @@
 
 HTML/CSS/JSコーディングの最小環境です。
 
-[GitHub Pages](https://ryo-i.github.io/front-end-getting-sterted/dest/)
+[GitHub Pages](https://ryo-i.github.io/web-coding-getting-sterted/)
 
 ## 姉妹リポジトリ
 
