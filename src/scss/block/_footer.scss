@@ -1,8 +1,0 @@
-/* footer */
-.footer {
-    @include pageSize();
-    text-align: center;
-    &__test {
-        font-size: 0.8em;
-    }
-}
