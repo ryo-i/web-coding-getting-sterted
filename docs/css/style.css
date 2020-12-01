@@ -8,7 +8,7 @@ body {
 }
 
 body *, body *:before, body *:after {
-  box-sizing: border-box;
+  font-size: 2em;
 }
 
 body a {
@@ -56,8 +56,4 @@ body a {
   padding: 20px;
   margin: 0 auto;
   text-align: center;
-}
-
-.footer__test {
-  font-size: 0.8em;
 }
