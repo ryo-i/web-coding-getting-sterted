@@ -8,7 +8,7 @@ body {
 }
 
 body *, body *:before, body *:after {
-  font-size: 2em;
+  box-sizing: border-box;
 }
 
 body a {
@@ -28,7 +28,7 @@ body a {
 }
 
 .header__title {
-  color: #333;
+  font-size: 2em;
 }
 
 /* main */
